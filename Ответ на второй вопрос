@@ -1,0 +1,11 @@
+Для выбора всех пар "Имя продукта - Имя категории", включая продукты без категорий, можно использовать соединение (JOIN) типа "LEFT JOIN"
+
+SELECT P.ProductName, C.CategoryName
+FROM Products P
+LEFT JOIN ProductCategory PC ON P.ProductID = PC.ProductID
+LEFT JOIN Categories C ON PC.CategoryID = C.CategoryID;
+
+
+В данном запросе предполагается, что таблица с продуктами называется "Products", таблица с категориями - "Categories", а таблица-связка между ними - "ProductCategory".
+
+Соединение типа "LEFT JOIN" позволяет выбирать все строки из левой таблицы (Products), даже если нет совпадений с правой таблицей (Categories). Таким образом, продукты без категорий также будут отображаться в результате запроса, с пустым значением для столбца "Имя категории".
