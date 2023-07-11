@@ -1,0 +1,6 @@
+C:\Users\admir\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\bin\Release\ShapeCalculatorLibrary.dll
+C:\Users\admir\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\bin\Release\ShapeCalculatorLibrary.pdb
+C:\Users\admir\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Release\ShapeCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\admir\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Release\ShapeCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admir\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Release\ShapeCalculatorLibrary.dll
+C:\Users\admir\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Release\ShapeCalculatorLibrary.pdb
